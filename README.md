@@ -14,29 +14,13 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-```python
-class MohamedFarhanM:
-    def __init__(self):
-        self.name = "Mohamed Farhan M"
-        self.location = "Ramanathapuram, Tamil Nadu, India"
-        self.degree = "B.Tech, Computer Science & Business Systems"
-        self.college = "S.A Engineering College (2024 - 2028)"
-        self.stack = ["Python", "C", "AutoCAD", "Microsoft Excel", "Canva"]
-        self.currently_learning = [
-            "Database Management Systems",
-            "OOP with C++",
-            "Cloud Security & AI Threat Detection"
-        ]
-        self.fun_fact = "Designed the official CSBS department magazine cover to cover!"
+I'm currently pursuing my **B.Tech in Computer Science and Business Systems** at S.A Engineering College (2024 – 2028), based in Ramanathapuram, Tamil Nadu, India. I have a strong foundation in programming and technical tools, with hands-on experience in **Python, C, AutoCAD, and Microsoft Excel**.
 
-    def motto(self) -> str:
-        return "Learn something new, build something real."
+I'm passionate about learning new technologies and applying them to solve real-world problems — right now that means diving deeper into **cloud security, AI-driven threat detection, database management systems, and OOP with C++**. Outside of code, I designed the cover-to-cover layout of my department's official magazine, so I've got a creative side too. 🎨
 
-me = MohamedFarhanM()
-print(me.motto())
-```
+> Fun fact: I built an AI-powered cloud security platform complete with SOC dashboards and role-based auth — before I even finished my degree!
 
 <br clear="right"/>
 
