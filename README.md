@@ -1,189 +1,151 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MOHAMED%20FARHAN%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20Learner&descAlignY=58&descSize=18"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohamed Farhan M</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Farhan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20%26%20Business%20Systems%20Student&descAlignY=62&descSize=16" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Business+Systems+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies"/>
-</p>
+<a href="https://www.linkedin.com/in/mohamed-farhan-m-534394377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:farhanxx04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Location-Ramanathapuram,%20Tamil%20Nadu,%20India-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Engineering+Student+%40+SA+Engineering+College;Cloud+Security+%7C+AI+%7C+Full+Stack+Enthusiast;Building+AI-Powered+Security+Platforms;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class MohamedFarhan:
-
+class MohamedFarhanM:
     def __init__(self):
         self.name = "Mohamed Farhan M"
-        self.role = "B.Tech CSBS Student"
-        self.location = "Chennai, India"
-
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "HTML",
-            "CSS"
+        self.location = "Ramanathapuram, Tamil Nadu, India"
+        self.degree = "B.Tech, Computer Science & Business Systems"
+        self.college = "S.A Engineering College (2024 - 2028)"
+        self.stack = ["Python", "C", "AutoCAD", "Microsoft Excel", "Canva"]
+        self.currently_learning = [
+            "Database Management Systems",
+            "OOP with C++",
+            "Cloud Security & AI Threat Detection"
         ]
+        self.fun_fact = "Designed the official CSBS department magazine cover to cover!"
 
-        self.frontend = [
-            "React",
-            "Tailwind CSS"
-        ]
+    def motto(self) -> str:
+        return "Learn something new, build something real."
 
-        self.backend = [
-            "FastAPI",
-            "REST APIs"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Full Stack Development",
-            "Cybersecurity"
-        ]
-
-    def motto(self):
-        return "Code • Learn • Build • Repeat 🚀"
+me = MohamedFarhanM()
+print(me.motto())
 ```
 
-## 🌐 Connect With Me
+<br clear="right"/>
 
-<p align="left">
-<a href="mailto:farhaxx04@gamil.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🛠️ Tech Stack
 
-<a href="https://www.linkedin.com/in/mohamed-farhan-m-534394377">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Languages**
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> </p>
 
-<a href="https://github.com/Mohamed-Farhan-M">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Design & Productivity Tools**
+<p> <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/> </p>
 
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
+**Currently Exploring**
+<p> <img src="https://img.shields.io/badge/Cloud%20Security-4285F4?style=flat-square&logo=cloudsmith&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B%20OOP-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Farhan-M&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Mohamed-Farhan-M"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Farhan-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/></a>
+<a href="https://github.com/Mohamed-Farhan-M"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Farhan-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Farhan-M&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mohamed-Farhan-M&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Farhan-M&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
----
+</div>
 
-## 🔥 GitHub Streak
+## 🏆 Trophy Wall
 
-<p align="center">
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Farhan-M&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Mohamed-Farhan-M&theme=tokyonight&hide_border=true"/>
+## 💼 Experience
 
-</p>
+<details>
+<summary><b>Magazine Designer — SAEC CSBS Department Magazine (2026)</b></summary>
+<br/>
 
----
+> `Design` `Layout` `Canva` `Content Formatting`
 
-## 📈 Contribution Graph
+- Led the visual layout and design of the official college magazine for the CSBS department
+- Created attractive page design, cover layout, and content formatting for the digital version
+- Collaborated with peers to maintain theme consistency and aesthetic appeal
 
-<p align="center">
+</details>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Farhan-M&theme=tokyo-night&hide_border=true"/>
+<details>
+<summary><b>Cyber Security Intern — CodeAlpha (May 20, 2026 – Jun 20, 2026)</b></summary>
+<br/>
 
-</p>
+> `Cyber Security` `Threat Analysis`
 
----
+- Completed a focused internship engagement in cyber security fundamentals and practices at CodeAlpha
 
-## 🏆 GitHub Trophies
+</details>
 
-<p align="center">
+<details>
+<summary><b>Web Development Intern — SkillCraft Technology (Dec 15, 2025 – Jan 14, 2026)</b></summary>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Farhan-M&theme=tokyonight&no-frame=true&row=1&column=7"/>
+> `Web Development`
 
-</p>
+- Completed a hands-on web development internship at SkillCraft Technology
 
----
+</details>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔹 Project 1 | Add your best AI / Web project |
-| 🔹 Project 2 | Add your Full Stack project |
-| 🔹 Project 3 | Add your Cybersecurity project |
+<div align="center">
 
----
+| Project | Stack | Highlights |
+|---|---|---|
+| **AI-Powered Cloud Security Analytics & Threat Response Platform** | Python · AI/ML · Cloud Security | SOC dashboards with AI-based threat detection and incident management; role-based authentication, audit logging, PDF/CSV reporting, and secure file upload validation |
 
-# 🎓 Education
+</div>
 
-| Degree | College |
-|---------|----------|
-| Bachelor of Technology (Computer Science and Business Systems) | S.A. Engineering College, Chennai |
+## 🏅 Achievements & Certifications
 
----
+<div align="center">
 
-# 🌱 Currently Learning
+| 🎖️ | Achievement | Details |
+|---|---|---|
+| 🧩 | Hackathons & Competitions | Actively participated in hackathons, coding competitions, and technical workshops |
+| 🛠️ | Multi-Domain Projects | Completed multiple projects across AI, Full Stack, Blockchain, IoT, and Web Development |
+| 📜 | Essentials of Database Management Systems | Udemy — July 2025 |
+| 📜 | OOP for Beginners with C++ | Udemy — August 2025 |
 
+</div>
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech, Computer Science & Business Systems | S.A Engineering College | 2024 – 2028 (3rd Year) | CGPA: 7.22 |
+| Higher Secondary Education | National Academy Montessori Matric Hr. Sec. School | 2023 – 2024 | 51.3% |
+
+</div>
+
+## 📚 Currently Learning
+
+```text
+🧱 Databases       → Database Management Systems fundamentals
+🧱 C++             → Object-Oriented Programming concepts
+🧱 Cyber Security  → Cloud security & AI-driven threat detection
 ```
-Artificial Intelligence
-Machine Learning
-React.js
-FastAPI
-Cybersecurity
-Cloud Computing
-```
 
----
-
-## 📈 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mohamed-Farhan-M&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 💬 Quote
-
-> **"Success is built one commit at a time." 🚀**
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
